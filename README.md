@@ -1,4 +1,4 @@
-⚔️ **Souls-like Stamina System**
+ ## ⚔️ Souls-like Stamina System
 
 A stamina-based combat system inspired by the mechanics of Souls-like games.
 

@@ -1,3 +1,5 @@
-## Stamina System Demo
+### Demo 1
+![Demo 1](_Stamina_Test.gif)
 
-[▶ Watch Stamina Test Video](./_Stamina_Test.mp4)
+### Demo 2
+![Demo 2](_Stamina_Test_ii.gif)

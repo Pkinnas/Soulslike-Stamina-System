@@ -1,5 +1,4 @@
-### Demo 1
-![Demo 1](_Stamina_Test.gif)
+### Stamina Test
+![Demo 1](_Stamina_Test_.gif)
 
-### Demo 2
-![Demo 2](_Stamina_Test_ii.gif)
+
